@@ -1,0 +1,5 @@
+N_MAX = 10_000
+N_MIN = 100
+ERR = 1e-5
+N_START = 1000
+
